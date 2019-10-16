@@ -1,0 +1,31 @@
+body{
+	background-color:#FFD369;
+	color:#E26241;
+	font-family:'Oswald', sans-serif}
+div{
+	box-shadow: 0px 10px 30px;padding: 60px;margin: 50px
+}
+
+h1{
+color:#940a37;
+font-family: 'Kalam', cursive;
+font-weight:400
+font-size: 60px;
+}
+h2{
+color:#E26241;
+font-family: 'Courgette', cursive;
+
+font-weight:50;
+letter-spacing: 3px;
+font-size: 60px;
+}
+a{text-decoration: none;color:#2a1a5e;}
+a:hover{color:red;}
+
+/*custom design with class*/
+
+·container{
+	width:700px;
+	margin:40px auto
+}
